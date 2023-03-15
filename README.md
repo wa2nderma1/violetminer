@@ -1,6 +1,6 @@
 # violetminer
 
-other command without use config.json
+=== Other command without use config.json ===
 
 git clone https://github.com/willyfransca/violetminer.git
 
